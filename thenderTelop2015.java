@@ -10,7 +10,7 @@ import com.qualcomm.robotcore.hardware.Servo;
  * Created by admin on 10/14/2015.
  */
 
-public class thunderTelop2015 extends OpMode {
+public class thenderTelop2015 extends OpMode {
 
     private DcMotor L;//left wheel motor
     private DcMotor R;//right wheel motor
